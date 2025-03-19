@@ -3,7 +3,7 @@
     {
       "e": "AQAB",
       "n": "<your n claim value>",
-      "kid": "<your KID value>",
+      "kid": "<12345>",
       "kty": "RSA",
       "use": "sig",
       "x5c": [
